@@ -4,3 +4,8 @@ body {
   text-align: center;
   margin: 20px;
 }
+
+p{
+  color: brown;
+  font-size: larger;
+}
