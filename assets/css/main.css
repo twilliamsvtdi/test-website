@@ -5,7 +5,12 @@ body {
   margin: 20px;
 }
 
-p{
+p {
   color: brown;
   font-size: larger;
+  font-weight: bold;
+}
+
+h1 {
+  color: rgb(47, 1, 139);
 }
