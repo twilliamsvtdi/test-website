@@ -3,6 +3,7 @@ body {
   background-color: #f0f0f0;
   text-align: center;
   margin: 20px;
+  padding: 20px;
 }
 
 div{
@@ -18,6 +19,14 @@ p {
 
 h1 {
   color: rgb(47, 1, 139);
+  font-weight: bold;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-items: center;
 }
 
 h2{
