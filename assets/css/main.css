@@ -6,10 +6,15 @@ body {
   padding: 13px;
 }
 
+div{
+  margin: 0 auto;
+}
+
 p {
   color: brown;
   font-size: larger;
   font-weight: bold;
+
 }
 
 h1 {
@@ -22,4 +27,8 @@ div {
   flex-wrap: wrap;
   flex-direction: column;
   justify-items: center;
+}
+
+h2{
+  color: rgb(47, 1, 139);
 }
