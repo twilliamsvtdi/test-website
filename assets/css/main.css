@@ -3,7 +3,8 @@ body {
   background-color: #f0f0f0;
   text-align: center;
   margin: 20px;
-  padding: 20px;
+  padding: 10px;
+  border: #f0f0f0;
 }
 
 div{
